@@ -7,7 +7,7 @@
 # 使い方
   
 counter.htmlとcounter.datを権限606だか604だかのディレクトリに放り込んでください。  
-counter.datは権限606、counter.htmlは権限604にしてください。    
+counter.datは権限606、counter.phpは権限604にしてください。    
 アクセスカウンターを表示したい文章位置に、  
   
 <!-- アクセスカウンター -->  
